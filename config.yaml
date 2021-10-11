@@ -1,0 +1,118 @@
+baseURL: https://jennifersu.netlify.app/
+languageCode: en-us
+title: Jennifer's website
+theme: forty
+googleAnalytics: ''
+disqusShortname: ''
+params:
+  banner: 
+    buttonText: Get Started
+#    subtitle: |-
+#      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+#      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Jennifer
+  blog: {}
+  contact:
+    address:
+      - city: London
+        country: United Kingdom
+#        street: Street
+        title: Location
+    buttonClear: Clear
+    buttonSend: Send message
+    email:
+      - email: jsu.mfa2022@london.edu
+        title: Email
+    enable: yes
+    phone: 
+      - phone: +44 (07) 536 215 396
+        title: Phone
+  custom_css: []
+  custom_js: []
+  description: Your description
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+  favicon: favicon.ico
+  footer:
+    copyright: Jennifer Ziyao Su
+    enable: yes
+    quicklinks:
+      - alt: HTML5 UP
+        text: 'Design: '
+        url: https://www.html5up.net
+    social:
+#     - icon: fa-twitter
+#       label: Twitter
+#       url: https://www.twitter.com
+      - icon: fa-youtube
+        label: YouTube
+        url: https://www.youtube.com/channel/UCZ_o1dErJQxiOKgEXzQ04pQ
+      - icon: fa-instagram
+        label: Instagram
+        url: https://www.instagram.com/_homebistro_/?hl=en
+      - icon: fa-github
+        label: GitHub
+        url: https://www.github.com
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: https://www.linkedin.com/in/jenniferziyaosu/
+  image: ''
+  name: Your name
+  navigation:
+    button1:
+      - name: Get Started
+        url: blogs
+    button2:
+      - name: Log In
+        url: '#'
+    links:
+      - name: Home
+        url: '#'
+      - name: Blogs
+        url: blogs
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
+    menu: Menu
+    subtitle: By HTML5 Up
+    title: Forty
+  tiles:
+    enable: yes
+    showcase:
+      - image: lbs.jpg
+        subtitle: China -> Canada -> United Kingdom
+        title: Education
+        url: blogs/aliquam
+      - image: pic02.jpg
+        subtitle: Capital Markets -> Private Investments
+        title: Professional Experience
+        url: blogs/tempus
+      - image: food.jpg
+        subtitle: The HomeBistro Kitchen
+        title: Food Adventurer
+        url: blogs/magna
+      - image: travel.jpg
+        subtitle: Museum of Memories
+        title: Traveller
+        url: blogs/ipsum
+      - image: music.jpg
+        subtitle: Soul of my life
+        title: Music 
+        url: blogs/ipsum
+      - image: tennis.jpg
+        subtitle: Sweat in the sun
+        title: Sports
+        url: blogs/ipsum
+  two:
+    buttonText: Get Started
+    enable: yes
+    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+      amet pharetra et feugiat tempus."
+    title: Massa libero
+    url: blogs
