@@ -72,47 +72,42 @@ params:
       - name: Blogs
         url: blogs
       - name: Generic Blog
-        url: blogs/ipsum
+        url: blogs/forest
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: Jen's Website
+    title: Home
   tiles:
     enable: yes
     showcase:
       - image: lbs.jpg
         subtitle: China -> Canada -> United Kingdom
         title: Education
-        url: blogs/aliquam
-      - image: pic02.jpg
+        url: blogs/uoft
+      - image: lbs.jpg
         subtitle: Capital Markets -> Private Investments
-        title: Professional Experience
-        url: blogs/tempus
+        title: R Experience
+        url: blogs/jennifer
       - image: food.jpg
         subtitle: The HomeBistro Kitchen
         title: Food Adventurer
-        url: blogs/magna
+        url: blogs/homebistro
       - image: travel.jpg
         subtitle: Museum of Memories
         title: Traveller
-        url: blogs/ipsum
+        url: blogs/zermatt
       - image: music.jpg
         subtitle: Soul of my life
         title: Music 
-        url: blogs/ipsum
+        url: blogs/piano1
       - image: tennis.jpg
         subtitle: Sweat in the sun
         title: Sports
-        url: blogs/ipsum
+        url: blogs/tennis
   two:
-    buttonText: Get Started
+    buttonText: Watch Again
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+    subtitle: ""
+    title: Thanks for Visiting
+ #   url: blogs
