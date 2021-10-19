@@ -86,7 +86,7 @@ params:
         title: Education
         url: blogs/uoft
       - image: lbs.jpg
-        subtitle: Capital Markets -> Private Investments
+        subtitle: R 101
         title: R Experience
         url: blogs/jennifer
       - image: food.jpg
